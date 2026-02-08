@@ -74,7 +74,7 @@ Data was split into training, validation, and testing sets for model development
 
 A research paper was developed to document the project methodology, experiments, model comparisons, and final results.
 
-*Facial Emotion Recognition Research Paper*  
+**Facial_Emotion_Recognition_Research_Paper.pdf**  
 
 
 
